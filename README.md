@@ -10,8 +10,10 @@ Using React, Node.js, Express & MongoDB. - from start to finish. The App is call
 (This app is just for learning purposes and new features might be added later on. )
 (application in development)
 
-State Management : Redux.
-Authentication : JWT and Google oAuth.
+State Management : Redux. |
+Authentication : JWT and Google oAuth. | 
+Frameworks and Libraries: React, Express, Mongoose. |
+middlewares: Redux-thunk for async actions,
 
 # LOGIN ID for testing
 
@@ -25,7 +27,7 @@ Authentication : JWT and Google oAuth.
 ## Features :
 
 -Search Post by Name and Tags.
--Like, create, delete, edit post after login.
+-Like, create, delete, edit post after login (protected routes)
 -Custom Sign In and Google OAuth sign in.
 -Pagination.
 

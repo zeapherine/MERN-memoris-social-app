@@ -1,5 +1,7 @@
 # Memories
 
+ [Live site](https://memoriesbank.netlify.app)
+
 ![Memories](https://i.ibb.co/VqYGh26/memoriesbank.png)
 
 ## Introduction
@@ -10,8 +12,10 @@ Using React, Node.js, Express & MongoDB. - from start to finish. The App is call
 (This app is just for learning purposes and new features might be added later on. )
 (application in development)
 
-State Management : Redux.
-Authentication : JWT and Google oAuth.
+State Management : Redux. </br>
+Authentication : JWT and Google oAuth. </br>
+Frameworks and Libraries: React, Express, Mongoose. </br>
+middlewares: Redux-thunk for async actions,
 
 # LOGIN ID for testing
 
@@ -24,10 +28,11 @@ Authentication : JWT and Google oAuth.
 
 ## Features :
 
--Search Post by Name and Tags.
--Like, create, delete, edit post after login.
--Custom Sign In and Google OAuth sign in.
--Pagination.
+-Search Post by Name and Tags. </br>
+-Like, create, delete, edit post after login (protected routes) </br>
+-Custom Sign In and Google OAuth sign in. </br>
+-Pagination.</br>
+-recomendation based on tags.
 
 # Host plateform :
 

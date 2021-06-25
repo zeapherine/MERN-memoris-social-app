@@ -30,6 +30,7 @@ middlewares: Redux-thunk for async actions,
 
 -Search Post by Name and Tags. </br>
 -Like, create, delete, edit post after login (protected routes) </br>
+-Comments. </br>
 -Custom Sign In and Google OAuth sign in. </br>
 -Pagination.</br>
 -recomendation based on tags.
